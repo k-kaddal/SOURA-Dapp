@@ -39,6 +39,9 @@ To do:
 - Setting up project (done)
 - Create Basic smart contract (done)
 - Upload Image and test (done)
+- Tip image owner (done)
+- Migrate smart contract to the blockchain (done)
+- Frontend
 
 ## Contact
 
