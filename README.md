@@ -37,6 +37,8 @@ Project is: _in progress_
 To do:
 
 - Setting up project (done)
+- Create Basic smart contract (done)
+- Upload Image and test (done)
 
 ## Contact
 
