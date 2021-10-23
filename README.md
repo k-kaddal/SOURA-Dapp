@@ -1,6 +1,6 @@
 # dGallery
 
-> A basic decentralized social network, using Ethereum blockchain
+> A basic decentralized social network, using Ethereum blockchain and IPfs protocol for storing images
 
 ## Table of Contents
 
@@ -16,6 +16,7 @@
 - Web3.js
 - Solidity
 - React
+- IPFS Interplanetry File System
 - Mocha testing framework
 - Chai assertion library
 - Ganache
@@ -41,7 +42,9 @@ To do:
 - Upload Image and test (done)
 - Tip image owner (done)
 - Migrate smart contract to the blockchain (done)
-- Frontend
+- Frontend: connect to metaMask and load data from blockchain (done)
+- Frontend: Upload Image (done)
+- Frontend: Tip Image Owner (done)
 
 ## Contact
 
